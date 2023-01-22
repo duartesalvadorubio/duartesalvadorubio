@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Duarte!
-- 👀 I’m interested in Engineering, Science, drones and electronics.
+- 👀 I’m interested in Engineering, Science, Drones and Electronics.
 - 🌱 I’m currently learning a lot of new things here!
 - 📫 How to reach me: @duartesalvadorubio
 
