@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Duarte!
 - 👀 I’m interested in Engineering, Science, Robotics, Electronics and AI.
-- 🌱 I’m currently learning a lot of new things here!
+- 🛠️ I also make [things with 3D printers](https://www.thingiverse.com/dudufreeride)
 - 📫 How to reach me: duartesalvadorubio@gmail.com
 
 <!---
